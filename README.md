@@ -1,2 +1,2 @@
-# Linear-Regression-in-Python
+# Regularization-in-Python
 Implementing linear regression and gradient descent using Python
